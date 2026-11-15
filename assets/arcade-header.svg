@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">darkness8099 — Player &amp; Creator</title>
+  <desc id="desc">A dark arcade title screen with a pixel bomb, gold borders and lavender accents.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#23263c" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="#111323"/>
+  <rect x="16" y="16" width="1168" height="268" rx="8" fill="url(#grid)" stroke="#3c3d59" stroke-width="2"/>
+  <path d="M16 72V16H72 M1128 16H1184V72 M16 228V284H72 M1128 284H1184V228" fill="none" stroke="#f7cb52" stroke-width="4"/>
+  <g fill="#a78bfa"><rect x="70" y="54" width="8" height="8"/><rect x="86" y="54" width="8" height="8"/><rect x="102" y="54" width="8" height="8"/></g>
+  <text x="126" y="63" fill="#b7b9ce" font-family="monospace" font-size="14" letter-spacing="3">PLAYER PROFILE / 01</text>
+  <text x="70" y="155" fill="#f7cb52" font-family="monospace" font-size="66" font-weight="bold" letter-spacing="2">darkness8099</text>
+  <text x="73" y="198" fill="#e4e4f0" font-family="monospace" font-size="21" letter-spacing="5">PLAYER &amp; CREATOR</text>
+  <text x="73" y="250" fill="#9296b3" font-family="monospace" font-size="14" letter-spacing="2">GAMES / WORLDS / EXPERIMENTS</text>
+  <g transform="translate(925 77) scale(8)" shape-rendering="crispEdges">
+    <path d="M9 3H14V5H17V8H19V15H17V18H14V20H6V18H3V15H1V8H3V5H6V3Z" fill="#090b15"/>
+    <path d="M6 5H14V7H17V15H14V18H6V16H3V8H6Z" fill="#57557d"/>
+    <path d="M6 5H12V7H6V11H4V8H6Z" fill="#d4c7ff"/>
+    <path d="M14 9H17V15H14V18H7V16H14Z" fill="#34344f"/>
+    <path d="M10 3V0H14V-2H16" fill="none" stroke="#e9ae60" stroke-width="1.5"/>
+    <path d="M17 -4V0 M15 -2H19" stroke="#f7cb52" stroke-width="1.5"/>
+    <rect x="20" y="2" width="1" height="1" fill="#f7cb52"/>
+    <rect x="13" y="-5" width="1" height="1" fill="#f7cb52"/>
+  </g>
+</svg>
