@@ -1,8 +1,8 @@
 <div align="center">
 
-![darkness8099 — Player & Creator](assets/arcade-header.svg)
+![SayoMako — Player & Creator](assets/arcade-header.svg)
 
-### 👋 你好，我是 darkness8099
+### 👋 你好，我是 SayoMako
 
 喜欢游戏，也想亲手做出值得玩的世界。  
 正在探索 **AI 辅助创作 · 游戏机制 · Godot 开发**。
@@ -26,7 +26,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkness8099/darkness8099/refs/heads/output/bomberman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darkness8099/darkness8099/refs/heads/output/bomberman-contribution-graph.svg">
-  <img alt="根据 darkness8099 的 GitHub 贡献记录生成的 Bomberman 动画" src="https://raw.githubusercontent.com/darkness8099/darkness8099/refs/heads/output/bomberman-contribution-graph.svg" width="100%">
+  <img alt="根据 SayoMako 的 GitHub 贡献记录生成的 Bomberman 动画" src="https://raw.githubusercontent.com/darkness8099/darkness8099/refs/heads/output/bomberman-contribution-graph.svg" width="100%">
 </picture>
 
 <p align="center"><sub>每日更新 · 随 GitHub 深浅主题切换 · 动画由 <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a> 生成</sub></p>

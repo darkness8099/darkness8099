@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">darkness8099 — Player &amp; Creator</title>
+  <title id="title">SayoMako — Player &amp; Creator</title>
   <desc id="desc">A dark arcade title screen with a pixel bomb, gold borders and lavender accents.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#23263c" stroke-width="1"/></pattern>
@@ -9,7 +9,7 @@
   <path d="M16 72V16H72 M1128 16H1184V72 M16 228V284H72 M1128 284H1184V228" fill="none" stroke="#f7cb52" stroke-width="4"/>
   <g fill="#a78bfa"><rect x="70" y="54" width="8" height="8"/><rect x="86" y="54" width="8" height="8"/><rect x="102" y="54" width="8" height="8"/></g>
   <text x="126" y="63" fill="#b7b9ce" font-family="monospace" font-size="14" letter-spacing="3">PLAYER PROFILE / 01</text>
-  <text x="70" y="155" fill="#f7cb52" font-family="monospace" font-size="66" font-weight="bold" letter-spacing="2">darkness8099</text>
+  <text x="70" y="155" fill="#f7cb52" font-family="monospace" font-size="66" font-weight="bold" letter-spacing="2">SayoMako</text>
   <text x="73" y="198" fill="#e4e4f0" font-family="monospace" font-size="21" letter-spacing="5">PLAYER &amp; CREATOR</text>
   <text x="73" y="250" fill="#9296b3" font-family="monospace" font-size="14" letter-spacing="2">GAMES / WORLDS / EXPERIMENTS</text>
   <g transform="translate(925 77) scale(8)" shape-rendering="crispEdges">
