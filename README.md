@@ -24,9 +24,9 @@
 把日常的开发足迹，变成一局 Bomberman。
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkness8099/darkness8099/output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darkness8099/darkness8099/output/bomberman-contribution-graph.svg">
-  <img alt="根据 darkness8099 的 GitHub 贡献记录生成的 Bomberman 动画" src="https://raw.githubusercontent.com/darkness8099/darkness8099/output/bomberman-contribution-graph.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkness8099/darkness8099/refs/heads/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darkness8099/darkness8099/refs/heads/output/bomberman-contribution-graph.svg">
+  <img alt="根据 darkness8099 的 GitHub 贡献记录生成的 Bomberman 动画" src="https://raw.githubusercontent.com/darkness8099/darkness8099/refs/heads/output/bomberman-contribution-graph.svg" width="100%">
 </picture>
 
 <p align="center"><sub>每日更新 · 随 GitHub 深浅主题切换 · 动画由 <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a> 生成</sub></p>
